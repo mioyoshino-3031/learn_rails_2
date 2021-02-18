@@ -1,4 +1,4 @@
-# portfolio_2
+# learn_rails_2
 
 $ ruby -v<br>
 $ ruby 2.7.2
